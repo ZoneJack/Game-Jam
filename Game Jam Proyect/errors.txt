@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 216: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    "La policia tardó en llegar 40 minutos."
+    ^
+
+Ren'Py Version: Ren'Py 8.2.0.24012702
+Sun Feb 25 20:07:54 2024
